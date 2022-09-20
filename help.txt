@@ -1,0 +1,4 @@
+for release use command
+cordova build --release android
+
+cordova emulate android
